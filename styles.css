@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family:fantasy;  
+    font-size: 100px;
+}
+h2 {
+    color:brown;
+    text-align: center;
+    font-size: 50px;
+}
+h3 {
+    color:blue;
+    font-family:monospace;  
+    text-align: center;
+    font-size: 25px;
+}
+h4 {
+    color:red;
+    font-family:monospace;  
+    font-size: 100px;
+}
+body {
+    background-color: black;
+}
+input[type="text"]{
+    color:blue;
+    font-family:monospace;  
+    text-align: center;
+    font-size: 25px;
+}
